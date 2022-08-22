@@ -23,7 +23,7 @@ GEM
     guard-rspec (0.6.0)
       guard (>= 0.10.0)
     json_pure (1.8.0)
-    rake (10.1.0)
+    rake (13.0.6)
     rspec (2.13.0)
       rspec-core (~> 2.13.0)
       rspec-expectations (~> 2.13.0)
